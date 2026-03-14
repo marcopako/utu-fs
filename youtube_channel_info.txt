@@ -1,6 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
+NASA Live | Ciencia | https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg | https://www.youtube.com/@NASA/live
 Canal Once | Noticias | https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png | https://www.youtube.com/@CanalOnceIPN/live
 NMás | Noticias | https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-nmas.png | https://www.youtube.com/@nmas/live
 Kings League Mexico | Entretenimiento | https://upload.wikimedia.org/wikipedia/commons/9/92/Kings-league.png | https://www.youtube.com/@kingsleague_mex/live
