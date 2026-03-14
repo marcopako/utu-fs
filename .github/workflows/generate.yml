@@ -26,7 +26,7 @@ jobs:
 
       - name: Run script
         run: |
-          python youtube_m3ugrabber.py youtube_channel_info.txt youtube.m3u
+          python youtube_m3ugrabber.py
 
       - name: Commit playlist
         run: |
