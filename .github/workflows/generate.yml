@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pytube
+          pip install yt-dlp
 
       - name: Run script
         run: |
